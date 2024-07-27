@@ -11,9 +11,11 @@ To get started with this project, follow these steps:
 
 Clone the Repository:
 git clone https://github.com/keerthigarayar/ImageClassifierWeb.git
+
 cd ImageClassifierWeb
 Create a Virtual Environment:
 python -m venv venv
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install Dependencies:
 pip install flask tensorflow pillow
